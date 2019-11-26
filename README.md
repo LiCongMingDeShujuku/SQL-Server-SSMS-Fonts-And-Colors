@@ -7,6 +7,7 @@
 
 - [中文](#中文)
 - [English](#English)
+- [ColorConfiguration](#ColorConfiguration)
 - [Build Info](#Build-Info)
 - [Author](#Author)
 - [License](#License) 
@@ -72,9 +73,9 @@ Here’s everything I modified on my Management Studio.
 - 概述边缘广场
 - 概述保证金垂直规则
 
-- [中文](#中文)
+## ColorConfiguration
 
-| 中文 | English | Link |
+| 中文 | English | Config |
 |------|------|------|
 | 纯文本 | PlainText | [PlainText](#PlainText) |
 | 选定的文字 | HighlightingCurrentLine | [HighlightingCurrentLine](#HighlightingCurrentLine) |
@@ -88,17 +89,17 @@ Here’s everything I modified on my Management Studio.
 | #### | CommentColor | [CommentColor](#CommentColor) |
 | #### | BulletIcon | [BulletIcon](#BulletIcon) |
 | #### | ScopeHighlight | [ScopeHighlight](#ScopeHighlight) |
-| #### | KeyWord | [KeyWord](#KeyWord) |
-| #### | SQLOperator | [SQLOperator](#SQLOperator) |
-| #### | StoredProcedures | [StoredProcedures](#StoredProcedures) |
-| #### | Strings | [Strings](#Strings) |
-| #### | SystemTable | [SystemTable](#SystemTable) |
+| 关键词 | KeyWord | [KeyWord](#KeyWord) |
+| SQL运算符 | SQLOperator | [SQLOperator](#SQLOperator) |
+| SQL存储过程 | StoredProcedures | [StoredProcedures](#StoredProcedures) |
+| String | Strings | [Strings](#Strings) |
+| SQL系统表 | SystemTable | [SystemTable](#SystemTable) |
 | #### | GeneralStringColor | [GeneralStringColor](#GeneralStringColor) |
-| #### | PlainTextGeneral | [PlainTextGeneral](#PlainTextGeneral) |
-| #### | TrackChangesColor | [TrackChangesColor](#TrackChangesColor) |
+| 文本 | PlainTextGeneral | [PlainTextGeneral](#PlainTextGeneral) |
+| 保存前跟踪更改 | TrackChangesColor | [TrackChangesColor](#TrackChangesColor) |
 | #### | SyntaxModifiedColor | [SyntaxModifiedColor](#SyntaxModifiedColor) |
-| #### | OutlineMarginSquare | [OutlineMarginSquare](#OutlineMarginSquare) |
-| #### | VerticalRuleOutlineMargin | [VerticalRuleOutlineMargin](#VerticalRuleOutlineMargin) |
+| 概述边缘广场 | OutlineMarginSquare | [OutlineMarginSquare](#OutlineMarginSquare) |
+| 概述保证金垂直规则 | VerticalRuleOutlineMargin | [VerticalRuleOutlineMargin](#VerticalRuleOutlineMargin) |
 
 
 
