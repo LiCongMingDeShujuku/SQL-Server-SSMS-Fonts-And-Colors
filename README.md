@@ -22,9 +22,9 @@ If you want to skip directly to the download… The Download is also available a
 
 如果你想直接跳到下载，你需要做的就是删除.doc扩展名，然后加载.vssettings文件。
 https://mikesdatawork.wordpress.com/2017/07/07/dark-ssms-theme-ssms-2017/
-Here’s everything I modified on my 2016 Management Studio.
+Here’s everything I modified on my Management Studio.
 
-这是我在2016 Management Studio上修改的所有内容。
+这是我在Management Studio上修改的所有内容。
 
 ## English
 - Plain Text
@@ -72,6 +72,35 @@ Here’s everything I modified on my 2016 Management Studio.
 - 概述边缘广场
 - 概述保证金垂直规则
 
+- [中文](#中文)
+
+| 中文 | English | Link |
+|------|------|------|
+| 纯文本 | PlainText | [PlainText](#PlainText) |
+| 选定的文字 | HighlightingCurrentLine | [HighlightingCurrentLine](#HighlightingCurrentLine) |
+| #### | GeneralHighlighting | [GeneralHighlighting](#GeneralHighlighting) |
+| #### | SelectedText | [SelectedText](#SelectedText) |
+| #### | LineNumber | [LineNumber](#LineNumber) |
+| #### | BraceMatching | [BraceMatching](#BraceMatching) |
+| #### | BreakPoint | [BreakPoint](#BreakPoint) |
+| #### | BreakPointBorder | [BreakPointBorder](#BreakPointBorder) |
+| #### | CollapsibleRegion | [CollapsibleRegion](#CollapsibleRegion) |
+| #### | CommentColor | [CommentColor](#CommentColor) |
+| #### | BulletIcon | [BulletIcon](#BulletIcon) |
+| #### | ScopeHighlight | [ScopeHighlight](#ScopeHighlight) |
+| #### | KeyWord | [KeyWord](#KeyWord) |
+| #### | SQLOperator | [SQLOperator](#SQLOperator) |
+| #### | StoredProcedures | [StoredProcedures](#StoredProcedures) |
+| #### | Strings | [Strings](#Strings) |
+| #### | SystemTable | [SystemTable](#SystemTable) |
+| #### | GeneralStringColor | [GeneralStringColor](#GeneralStringColor) |
+| #### | PlainTextGeneral | [PlainTextGeneral](#PlainTextGeneral) |
+| #### | TrackChangesColor | [TrackChangesColor](#TrackChangesColor) |
+| #### | SyntaxModifiedColor | [SyntaxModifiedColor](#SyntaxModifiedColor) |
+| #### | OutlineMarginSquare | [OutlineMarginSquare](#OutlineMarginSquare) |
+| #### | VerticalRuleOutlineMargin | [VerticalRuleOutlineMargin](#VerticalRuleOutlineMargin) |
+
+
 
 ## PlainText
 Starting with ‘Plain Text’. As you can see here; you can modify the basic text colors, and more importantly the background.
@@ -80,7 +109,6 @@ Starting with ‘Plain Text’. As you can see here; you can modify the basic te
 
 ![#](images/ssms-fonts-and-colors-01.png?raw=true "#")
 
-## PlainText
 Plan Text is found here:
 纯文本可在此处找到：
 
